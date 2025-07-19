@@ -7,7 +7,7 @@ This project analyzes retail sales data using **SQL** for data processing and **
 
 ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](https://github.com/Jayanth-0510/retail-sales-powerbi/blob/main/Retail_Salesdashboard.png))
+![Retail Sales Dashboard](assets/dashboard_screenshot.png)
 
 ---
 
