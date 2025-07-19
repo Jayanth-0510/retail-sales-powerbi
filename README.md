@@ -7,7 +7,7 @@ This project analyzes retail sales data using **SQL** for data processing and **
 
 ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](assets/dashboard_screenshot.png)
+![Retail Sales Dashboard](assets/Retail_Salesdashboard.png)
 
 ---
 
