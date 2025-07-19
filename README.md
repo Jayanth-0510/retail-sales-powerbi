@@ -35,7 +35,7 @@ This project analyzes retail sales data using **SQL** for data processing and **
 ---
 
 ## 🌐 Live Dashboard
-[👉 View on Power BI (Public Link)](your-public-link-here)
+[👉 View on Power BI (Public Link)](Retail_Sales_Insights.pbix)
 
 ---
 
