@@ -29,7 +29,7 @@ East: ₹11.0K
 North: ₹8.6K  
 South: ₹4.6K | Shows regional buying power. |
 
-
+---
 
 ## 🔧 Tools Used
 - **SQL** (data cleaning & analysis)
